@@ -1,7 +1,7 @@
 # Exam Details
 
-- This exam has 4 questions in total. A random question is picked from each level below. 
-- If you fail the exam, when you retake the exam next time, you will restart at Level 1 again with a different set of questions.
+- The exam has 4 questions in total. A random question is picked from each level.
+- If you fail the exam, when you have to retake the whole exam next time, you will restart at Level 1 again with a different set of questions.
 
 <br>
 
