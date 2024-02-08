@@ -121,10 +121,10 @@ Type 'y' or 'yes'
 - grademe - checking pushed exercise (moulinet)
 - finish - closing examshell and finish exam
 ```
-:seven: Open a new iTerm or VSCode:
+:seven: Open a new Exam exercise:
 ```
 - You can find your exam subject in the directory subject
-- Then you can see directory Rendu. It is your repository.
+- The directory Rendu is your repository.
 - You must create a folder named by the project and start working in that folder.
 ```
 # Exam Submission Details
