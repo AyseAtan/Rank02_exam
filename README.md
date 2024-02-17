@@ -9,8 +9,6 @@
 
 There is no Norminette in this exam. 
 
-<br>
-
 ## Exam Questions
 
 ### Question 1 is from Level 1
