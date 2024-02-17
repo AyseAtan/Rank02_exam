@@ -1,3 +1,6 @@
+## Subject
+
+```
 Assignment name  : first_word
 Expected files   : first_word.c
 Allowed functions: write
@@ -16,7 +19,7 @@ Examples:
 
 $> ./first_word "FOR PONY" | cat -e
 FOR$
-$> ./first_word "this        ...       is sparta, then again, maybe    not" | cat -e
+$> ./first_word "this        ...    is sparta, then again, maybe    not" | cat -e
 this$
 $> ./first_word "   " | cat -e
 $
@@ -25,3 +28,4 @@ $
 $> ./first_word "  lorem,ipsum  " | cat -e
 lorem,ipsum$
 $>
+```
