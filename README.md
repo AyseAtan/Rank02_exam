@@ -1,17 +1,17 @@
-# Exam Details
+## Exam Details
 
 - The exam has 4 questions in total. A random question is picked from each level.
 - If you fail the exam, when you have to retake the whole exam next time, you will restart at Level 1 again with a different set of questions.
 
 <br>
 
-# Exam Norminette
+### Exam Norminette
 
 There is no Norminette in this exam. 
 
 <br>
 
-# Exam Questions
+## Exam Questions
 
 ### Question 1 is from Level 1
 
@@ -93,62 +93,58 @@ Total of 57 Functions/Programs.
 <br>
 
 # Exam Login Details
-:one: Login With The Following:
+1. Login With The Following:
 ```
 login -> exam
 password -> exam
 ```
-:two: In ITerm:
+2. In ITerm:
 ```
 Type examshell in terminal
 ```
-:three: Your 42 Intra Account:
+3. Your 42 Intra Account:
 ```
 login -> your 42 intra username
 pasword -> your password
 ```
-:four: Your 42 Intra Photo:
+4. Your 42 Intra Photo:
 ```
 Allow photo check
 ```
-:five: Access Rendu:
+5. Access Rendu:
 ```
 Type 'y' or 'yes'
 ```
-:six: In the Exam Shell, You Have Only The Following 3 Commands:
+6. In the Exam Shell, You Have Only The Following 3 Commands:
 ```
 - status - check the time and other things
 - grademe - checking pushed exercise (moulinet)
 - finish - closing examshell and finish exam
 ```
-:seven: Open a new Exam exercise:
+7. Open a new Exam exercise:
 ```
 - You can find your exam subject in the directory subject
 - The directory Rendu is your repository.
 - You must create a folder named by the project and start working in that folder.
 ```
-# Exam Submission Details
+## Exam Submission Details
 
 When you are ready to sumbit your function/program, go into the Rendu directory and push the folder you created by doing the following:
 
-:one: git add <folder name/files in folder>
+1. git add <folder name/files in folder>
 
-:two: git status
+2. git status
 
-:three: git commit -m "your message"
+3. git commit -m "your message"
 
-:four: git push
+4. git push
 
-:five: After type `grademe` in the examshell for your project to be evaluated. 
+5. After type `grademe` in the examshell for your project to be evaluated. 
 
-<br>
-
-# Exam IDE
-
-You should be able to use both VSCode and Vim in the exam.
 
 <br>
 
-# Exam Practice Tool
+## Helpful links
 
-Practice the exam using this grademe tool - https://github.com/JCluzet/42_EXAM
+- Practice the exam using this grademe tool: https://github.com/JCluzet/42_EXAM
+- Pasqualerossi's github repo with solutions: https://github.com/pasqualerossi/42-School-Exam-Rank-02/tree/main
