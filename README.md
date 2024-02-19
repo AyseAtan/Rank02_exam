@@ -144,5 +144,5 @@ When you are ready to sumbit your function/program, go into the Rendu directory 
 
 ## Helpful links
 
-- Practice the exam using this grademe tool: https://github.com/JCluzet/42_EXAM
+- Practice the exam using this grademe tool: https://github.com/JCluzet/42_EXAM and https://grademe.fr
 - Pasqualerossi's github repo with solutions: https://github.com/pasqualerossi/42-School-Exam-Rank-02/tree/main
